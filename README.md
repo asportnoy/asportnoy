@@ -5,9 +5,9 @@ I'm a full stack software engineer
 ----------------------------------
 
 * 🌍  I'm based in the United States
-* 🖥️  See my portfolio at [albertp.dev](https://albertp.dev)
-* 👥 Follow me on Linkedin [@asportnoy](https://www.linkedin.com/in/asportnoy)
-* ✉️  You can contact me at [albert@albertp.dev](mailto:albert@albertp.dev)
+* 🖥️  See my portfolio at <a href="https://albertp.dev" target="_blank">albertp.dev</a>
+* 👥 Follow me on Linkedin <a href="https://www.linkedin.com/in/asportnoy" target="_blank">@asportnoy</a>
+* ✉️  You can contact me at <a href="mailto:albert@albertp.dev" target="_blank">albert@albertp.dev</a>
 
 ### Skills
 
