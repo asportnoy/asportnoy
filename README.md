@@ -12,37 +12,37 @@ I'm a full stack software engineer
 ### Skills
 
 <p align="left">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 		width="36" height="36" alt="JavaScript" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nodejs/nodejs-original.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"
 		height="36" alt="NodeJS" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
 		width="36" height="36" alt="TypeScript" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36"
 		height="36" alt="HTML5" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36"
 		height="36" alt="CSS3" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sass/sass-original.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36"
 		height="36" alt="Sass" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/svelte/svelte-original.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="36"
 		height="36" alt="Svelte" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"
 		height="36" alt="React" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/rust/rust-plain.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="36"
 		height="36" alt="Rust" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-original.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36"
 		height="36" alt="SQL" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mongodb/mongodb-original.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36"
 		height="36" alt="MongoDB" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"
 		height="36" alt="Git" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"
 		height="36" alt="GitHub" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-plain.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="36"
 		height="36" alt="Docker" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36"
 		height="36" alt="Bash" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ubuntu/ubuntu-plain.svg" width="36"
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="36"
 		height="36" alt="Linux" />
 
 </p>
@@ -52,7 +52,7 @@ I'm a full stack software engineer
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/asportnoy" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linkedin/linkedin-original.svg"
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
 			width="32" height="32" />
 	</a>
 	<a href="https://www.stackoverflow.com/users/6911703" target="_blank" rel="noreferrer">
