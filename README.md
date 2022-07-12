@@ -84,16 +84,12 @@ I'm a full stack software engineer
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/asportnoy" target="_blank" rel="noreferrer">
-		<a href="#">
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-				width="32" height="32" />
-		</a>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+			width="32" height="32" />
 	</a>
 	<a href="https://www.stackoverflow.com/users/6911703" target="_blank" rel="noreferrer">
-		<a href="#">
-			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
-				width="32" height="32" />
-		</a>
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
+			width="32" height="32" />
 	</a>
 </p>
 
