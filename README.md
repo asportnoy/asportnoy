@@ -94,7 +94,7 @@ I'm a full stack software engineer
 </p>
 
 <p align="center">
-	<a href="#" style="text-decoration: none;">
+	<a href="#">
 		<img
 			src="https://github-readme-stats.vercel.app/api?username=asportnoy&theme=algolia&show_icons=true&count_private=true&hide_border=true">
 		<img src="https://github-readme-streak-stats.herokuapp.com?user=asportnoy">
@@ -103,6 +103,6 @@ I'm a full stack software engineer
 
 <p align="center">
 	<a href="#">
-		<img src="https://komarev.com/ghpvc/?username=asportnoy&style=flat">
+		<img src="https://komarev.com/ghpvc/?username=asportnoy&style=for-the-badge	">
 	</a>
 </p>
