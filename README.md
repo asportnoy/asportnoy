@@ -103,6 +103,6 @@ I'm a full stack software engineer
 
 <p align="center">
 	<a href="#">
-		<img src="https://komarev.com/ghpvc/?username=asportnoy&style=for-the-badge	">
+		<img src="https://komarev.com/ghpvc/?username=asportnoy&style=for-the-badge">
 	</a>
 </p>
