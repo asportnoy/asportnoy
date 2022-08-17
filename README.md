@@ -97,6 +97,7 @@ I'm a full stack software engineer
 	<a href="#">
 		<img
 			src="https://github-readme-stats.vercel.app/api?username=asportnoy&theme=algolia&show_icons=true&count_private=true&hide_border=true">
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=asportnoy">
 	</a>
 </p>
 
