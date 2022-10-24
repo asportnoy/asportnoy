@@ -94,12 +94,12 @@ I'm a full stack software engineer
 </p>
 
 <p align="center">
-	<a href="https://github-readme-stats.vercel.app/api?username=asportnoy&theme=algolia&show_icons=true&count_private=true&hide_border=true">
+	<a href="https://github-readme-stats.vercel.app/api?username=asportnoy&theme=dracula&show_icons=true&count_private=true&hide_border=true">
 		<img
-			src="https://github-readme-stats.vercel.app/api?username=asportnoy&theme=algolia&show_icons=true&count_private=true&hide_border=true">
+			src="https://github-readme-stats.vercel.app/api?username=asportnoy&theme=dracula&show_icons=true&count_private=true&hide_border=true">
 	</a>
-	<a href="https://github-readme-streak-stats.herokuapp.com?user=asportnoy">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=asportnoy">
+	<a href="https://streak-stats.demolab.com?user=asportnoy&theme=dracula&hide_border=true">
+		<img src="https://streak-stats.demolab.com?user=asportnoy&theme=dracula&hide_border=true">
 	</a>
 </p>
 
