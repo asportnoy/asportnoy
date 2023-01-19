@@ -94,9 +94,9 @@ I'm a full stack software engineer
 </p>
 
 <p align="center">
-	<a href="https://github-readme-stats-asportnoy.vercel.app/api?username=asportnoy&theme=dracula&show_icons=true&count_private=true&hide_border=true">
+	<a href="https://github-readme-stats-asportnoy.vercel.app/api?username=asportnoy&theme=dracula&show_icons=true&count_private=true&hide_border=true&include_orgs=true">
 		<img
-			src="https://github-readme-stats-asportnoy.vercel.app/api?username=asportnoy&theme=dracula&show_icons=true&count_private=true&hide_border=true">
+			src="https://github-readme-stats-asportnoy.vercel.app/api?username=asportnoy&theme=dracula&show_icons=true&count_private=true&hide_border=true&include_orgs=true">
 	</a>
 	<a href="https://streak-stats.demolab.com?user=asportnoy&theme=dracula&hide_border=true">
 		<img src="https://streak-stats.demolab.com?user=asportnoy&theme=dracula&hide_border=true">
